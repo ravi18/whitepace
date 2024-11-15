@@ -1,0 +1,61 @@
+.hero-section {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+
+.plan-section {
+  background-color: #f2f4f7;
+  padding: 40px 0;
+}
+
+.plan-section-content {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.plan-section-content h2 {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.plan-section-content p {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 40px;
+}
+
+.plan-cards {
+  display: flex;
+  justify-content: space-between;
+}
+
+.plan-card {
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 300px; /* Adjust width for responsiveness */
+}
+
+@media (max-width: 1920px) {
+  /* Style for screens smaller than 1920px */
+}
+
+@media (max-width: 1440px) {
+  /* Style for screens smaller than 1440px */
+}
+
+@media (max-width: 1152px) {
+  /* Style for screens smaller than 1152px */
+}
+
+@media (max-width: 768px) {
+  /* Style for screens smaller than 768px */
+}
+
+@media (max-width: 320px) {
+  /* Style for screens smaller than 320px */
+}
